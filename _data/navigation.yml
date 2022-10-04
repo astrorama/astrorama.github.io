@@ -1,0 +1,7 @@
+- name: Docs
+  link: /docs/
+  #dropdown:
+    #-name: Some doc
+    # link: /docs/something
+- name: Blog
+  link: /blog/

@@ -1,0 +1,17 @@
+style: is-light
+items:
+  - title: sourcextractor++
+    subtitle: Catalog extraction from astronomical images
+    image: sourcextractor.png
+    call_to_action_name: Read the documentation
+    call_to_action_link: /SourceXtractorPlusPlus
+  - title: Phosphoros
+    subtitle: A tool for estimating photometric redshifts using template fitting method
+    image: phosphoros.png
+    call_to_action_name: Read the documentation
+    call_to_action_link: https://phosphoros.readthedocs.io/en/latest/
+  - title: Elements
+    subtitle: A CMake-based C++/Python Build Framework
+    image: cmake.png
+    call_to_action_name: Read the documentation
+    call_to_action_link: /Elements

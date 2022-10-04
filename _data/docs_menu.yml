@@ -1,0 +1,18 @@
+- label: Organization overview
+  items:
+    - name: GitHub repositories
+      link: /docs/astrorama/github/
+    - name: Conda channels
+      link: /docs/astrorama/conda/
+    - name: Fedora repositories
+      link: /docs/astrorama/fedora/
+
+- label: Contributing
+  items:
+    - name: Guidelines
+      link: /docs/contributing/guidelines/
+
+- label: Releases
+  items:
+    - name: Conda
+      link: /docs/releases/conda/

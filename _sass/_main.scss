@@ -20,3 +20,17 @@ $hero-darken: $dark !default;
 .gh-sponsor {
   color: #ea4aaa;
 }
+
+// Code highlight
+pre.highlight {
+    padding: 0.0em;
+}
+
+table.rouge-table pre {
+  padding: 0.1em;
+}
+
+table.rouge-table pre.lineno {
+  background-color: lightgray;
+  padding-left: 0.5em;
+}

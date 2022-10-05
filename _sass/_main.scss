@@ -33,4 +33,9 @@ table.rouge-table pre {
 table.rouge-table pre.lineno {
   background-color: lightgray;
   padding-left: 0.5em;
+  border-right: solid 1px;
+}
+
+table.rouge-table td.rouge-gutter {
+  width: 3em;
 }

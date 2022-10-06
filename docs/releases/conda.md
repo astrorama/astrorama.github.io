@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Relasing on Conda
+title: Releasing on Conda
 menubar: docs_menu
 ---
 

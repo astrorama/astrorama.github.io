@@ -21,6 +21,10 @@ $hero-darken: $dark !default;
   color: #ea4aaa;
 }
 
+div.content>p {
+  text-align: justify;
+}
+
 // Code highlight
 pre.highlight {
     padding: 0.0em;

@@ -9,6 +9,13 @@ any kind of economical contribution, in case you were wondering,
 but we look forward testing, bug reporting, feature request, coding,
 or even just talking nicely of the software.
 
+## Asking for help
+
+If you need a hand configuring, or even just compiling, you can open an
+issue on the trackers or, in the case of SourceXtractor++, a new
+[Discussion](https://github.com/astrorama/SourceXtractorPlusPlus/discussions)
+can also make sense.
+
 ## Bugs and feature requests
 
 If you find any issue with the software, please, open an issue

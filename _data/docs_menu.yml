@@ -6,6 +6,8 @@
       link: /docs/astrorama/conda
     - name: Fedora repositories
       link: /docs/astrorama/fedora
+    - name: About this page
+      link: /docs/astrorama/astrorama.github.io
 
 - label: Contributing
   items:
@@ -16,3 +18,5 @@
   items:
     - name: Conda
       link: /docs/releases/conda
+    - name: Fedora
+      link: /docs/releases/fedora

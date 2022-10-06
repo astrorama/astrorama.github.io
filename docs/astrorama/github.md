@@ -14,6 +14,11 @@ mirrors of those in GitLab.
 
 ## Special repositories
 
+### [astrorama.github.io](https://github.com/astrorama/astrorama.github.io)
+
+Contains this documentation. See [About this page](/docs/astrorama/astrorama.github.io)
+for more information.
+
 ### *-feedstock
 
 `*-feedstock` repositories contain the recipe needed to build

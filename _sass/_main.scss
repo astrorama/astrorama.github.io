@@ -36,6 +36,11 @@ table.rouge-table pre.lineno {
   border-right: solid 1px;
 }
 
+table.rouge-table td.rouge-code {
+  display: inline-block;
+}
+
 table.rouge-table td.rouge-gutter {
   width: 3em;
+  display: inline-block;
 }
